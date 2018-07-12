@@ -4,8 +4,7 @@
   "description": "Super simple Node app that redirects all requests for an old Heroku app to a new URL",
   "main": "web.js",
   "dependencies": {
-    "express": "^4.15.3",
-    "heroku-ssl-redirect": "0.0.4"
+    "express": "^4.15.3"
   },
   "devDependencies": {},
   "scripts": {
